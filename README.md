@@ -1,4 +1,3 @@
-# ambassadors 
 CNCF Ambassadors 
 
 To apply for Meetup reimbursement (up to $250), please submit post-meeting: 
