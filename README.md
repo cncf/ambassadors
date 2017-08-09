@@ -1,10 +1,20 @@
-CNCF Ambassadors 
+## CNCF Ambassadors
 
-To apply for Meetup reimbursement (up to $250), please submit post-meeting: 
+[Cloud Native Ambassadors](https://www.cncf.io/people/ambassadors/) (CNAs) are individuals who are passionate about Cloud Native Computing Foundation technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
 
-- Completed reimbursement form (available at https://github.com/cncf/ambassadors) 
-- Copies of applicable receipts 
-- URL to Meetup event info page, showing CNCF, Kubernetes, and/or Prometheus (or future CNCF-hosted project) on the Agenda 
+Successful ambassadors are people such as bloggers, influencers, evangelists who are already engaged with a CNCF project in some way including contributing to forums, online groups, community events, etc.
 
-Any questions, please contact @bprestoncf on https://cloud-native.slack.com/messages/ambassadors/ 
+The Cloud Native Ambassador program exists to empower community members with tools and resources needed to:
+* Promote cloud native projects and technology
+* Educate a local community on the CNCF mission
+* Contribute to CNCF projects
 
+Requirements for becoming an official Cloud Native Ambassador are:
+* Affiliated with a CNCF member OR is a contributor to a CNCF project.
+* Already engaged with the project in some way whether that’s as a contributor, blogger, speaker, etc.
+* Willing to either speak at community events OR write technical content such as blog posts.
+* Host a cloud native community meetup. See http://www.meetup.com/pro/cncf/ for areas already covered.
+
+Are you interested in becoming an official Cloud Native Ambassador?
+
+[Apply now!](https://www.cncf.io/people/ambassadors/application/)
