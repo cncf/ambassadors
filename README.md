@@ -15,11 +15,17 @@ Requirements for becoming an official Cloud Native Ambassador are:
 * Willing to either speak at community events OR write technical content such as blog posts.
 * Host a cloud native community meetup. See http://www.meetup.com/pro/cncf/ for areas already covered.
 
+### Why to apply?
+
+With the goal of Cloud Native technologies promotion around the globe, we are offering the following benefits for our Ambassadors:
+* Up to $250/month reimbursement for expenses, related to Meetups organizing.
+* One-time gift certificate to purchase swag from [CNCF Store](https://store.cncf.io/) for the local meetup group.
+* Support with finding speakers for the meetups and local events.
+* Speaking opportunities at Cloud Native industry events (with the optional travel expenses reimbursement).
+* Blogging opportunities (including [CNCF blog](https://www.cncf.io/blog/), [Kubernetes blog](http://blog.kubernetes.io/), and other industry-leading editions).
+* Social media promotion support.
+
 Are you interested in becoming an official Cloud Native Ambassador?
 
 [Apply now!](https://www.cncf.io/people/ambassadors/application/)
 
-### Meeting Minutes
-
-* [9/28/17](https://docs.google.com/presentation/d/14LkLi2kBatvvoaNxisquDQXddxDXX3sbI-6r8RrFFk8/edit?usp=sharing)
-* [10/26/17](https://docs.google.com/presentation/d/1ZvbNyeGu2Vk7qfv0jqFSpWPwydK7qpcDx-biSL2WzrI/edit)
