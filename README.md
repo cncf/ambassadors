@@ -1,6 +1,6 @@
 ## CNCF Ambassadors
 
-[Cloud Native Ambassadors](https://www.cncf.io/people/ambassadors/) (CNAs) are individuals who are passionate about Cloud Native Computing Foundation technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
+[Cloud Native Ambassadors](https://www.cncf.io/people/ambassadors/) (CNAs) are individuals who are passionate about [Cloud Native Computing Foundation](https://www.cncf.io/) technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
 
 Successful ambassadors are people such as bloggers, influencers, evangelists who are already engaged with a CNCF project in some way including contributing to forums, online groups, community events, etc.
 
@@ -14,7 +14,7 @@ Requirements for becoming an official Cloud Native Ambassador are:
 * Already engaged with the project in some way whether that’s as a contributor, blogger, speaker, etc.
 * Willing to either speak at community events OR write technical content such as blog posts.
 * Host a cloud native community meetup. See http://www.meetup.com/pro/cncf/ for areas already covered.
-  If you interested in starting a new meetup group you should have a look our [bests practices](meetups/Meetup_Best_Practices.md)
+  If you interested in starting a new meetup group you should have a look our [best practices](meetups/Meetup_Best_Practices.md).
 
 ### Why to apply?
 
