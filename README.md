@@ -1,5 +1,7 @@
 ## CNCF Ambassadors
 
+![CNCF Ambassador](https://github.com/cncf/artwork/blob/master/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png)
+
 [Cloud Native Ambassadors](https://www.cncf.io/people/ambassadors/) (CNAs) are individuals who are passionate about [Cloud Native Computing Foundation](https://www.cncf.io/) technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
 
 Successful ambassadors are people such as bloggers, influencers, evangelists who are already engaged with a CNCF project in some way including contributing to forums, online groups, community events, etc.
