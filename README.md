@@ -21,7 +21,8 @@ Requirements for becoming an official Cloud Native Ambassador are:
 ### Ambassador Benefits
 
 With the goal of Cloud Native technologies promotion around the globe, we are offering the following benefits for our Ambassadors:
-* Up to $250/month reimbursement for expenses, related to Meetups organizing.
+* Up to $250/month reimbursement for expenses, related to meetups organizing.
+* Discounts to CNCF conferences.
 * Wavied CNCF CKA/CKAD Exam Fees: https://www.cncf.io/certification/expert/
 * One-time gift certificate to purchase swag from [CNCF Store](https://store.cncf.io/) for the local meetup group.
 * Support with finding speakers for the meetups and local events.
