@@ -34,3 +34,6 @@ Are you interested in becoming an official Cloud Native Ambassador?
 
 [Apply now!](https://www.cncf.io/people/ambassadors/application/)
 
+### Code of Conduct
+
+CNCF Ambassador program follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
