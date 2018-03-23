@@ -5,4 +5,4 @@ To apply for Meetup reimbursement (up to $250), please submit post-meeting:
 - Copies of applicable receipts 
 - URL to Meetup event info page, showing CNCF, Kubernetes, and/or Prometheus (and/or other CNCF-hosted [project](https://www.cncf.io/projects/)) on the Agenda 
 
-Any questions, please contact @atarfish9 on [CNCF Slack](https://cloud-native.slack.com/messages/ambassadors/).
+Any questions, please contact @twaggoner on [CNCF Slack](https://cloud-native.slack.com/messages/ambassadors/).
