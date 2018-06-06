@@ -11,7 +11,7 @@ The Cloud Native Ambassador program exists to empower community members with too
 * Educate a local community on the CNCF mission
 * Contribute to CNCF projects
 
-Requirements for becoming an official Cloud Native Ambassador are:
+### Requirements for becoming an official Cloud Native Ambassador are:
 * Affiliated with a CNCF member OR is a contributor to a CNCF project.
 * Already engaged with the project in some way whether that’s as a contributor, blogger, speaker, etc.
 * Willing to either speak at community events OR write technical content such as blog posts.
@@ -30,7 +30,7 @@ With the goal of Cloud Native technologies promotion around the globe, we are of
 * Blogging opportunities (including [CNCF blog](https://www.cncf.io/blog/), [Kubernetes blog](http://blog.kubernetes.io/), and other industry-leading editions).
 * Social media promotion support.
 
-Are you interested in becoming an official Cloud Native Ambassador?
+### Are you interested in becoming an official Cloud Native Ambassador?
 
 [Apply now!](https://www.cncf.io/people/ambassadors/application/)
 
