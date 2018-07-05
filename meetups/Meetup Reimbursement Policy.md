@@ -1,5 +1,5 @@
 ## Meetup Reimbursements
-To apply for Meetup reimbursement (up to $250), please submit post-meeting: 
+To apply for Meetup reimbursement (up to $150/month), please submit post-meeting: 
 
 - Completed reimbursement form (available at https://github.com/cncf/ambassadors/tree/master/meetups) 
 - Copies of applicable receipts 
