@@ -37,3 +37,9 @@ With the goal of Cloud Native technologies promotion around the globe, we are of
 ### Code of Conduct
 
 CNCF Ambassador program follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+
+### FAQ
+
+#### How often are ambassador applications reviewed?
+
+We review hundreds of applications each month, but can only accept a few new CNCF Ambassadors from the pool of highly-qualified individuals. We are currently prioritizing Ambassadors who organize Meetups around CNCF technologies in regions not already represented.
