@@ -43,3 +43,7 @@ CNCF Ambassador program follows the [CNCF Code of Conduct](https://github.com/cn
 #### How often are ambassador applications reviewed?
 
 We review hundreds of applications each month, but can only accept a few new CNCF Ambassadors from the pool of highly-qualified individuals. We are currently prioritizing Ambassadors who organize Meetups around CNCF technologies in regions not already represented.
+
+#### Do I need to re-apply?
+
+No, once you formally apply you are part of the pool of applicants that get reviewed on a monthly basis.
