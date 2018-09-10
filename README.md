@@ -47,3 +47,7 @@ We review hundreds of applications each month, but can only accept a few new CNC
 #### Do I need to re-apply?
 
 No, once you formally apply you are part of the pool of applicants that get reviewed on a monthly basis.
+
+#### Will you email me with a status update of my application each month?
+
+No. If your application is deferred, we will send out a note the first time your application is reviewed. After that, we will only follow up when your application is accepted. 
