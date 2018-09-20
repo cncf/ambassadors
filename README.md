@@ -50,4 +50,4 @@ No, once you formally apply you are part of the pool of applicants that get revi
 
 #### Will you email me with a status update of my application each month?
 
-No. If your application is deferred, we will send out a note the first time your application is reviewed. After that, we will only follow up when your application is accepted. 
+No. If your application is deferred, we will send out a note the first time your application is reviewed. After that, we will only follow up if your application is accepted. 
