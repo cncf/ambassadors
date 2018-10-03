@@ -13,7 +13,7 @@ Reimbursement Instructions:
 -	Please expense receipts after you have spent the money.
 -	Email the expense report (which includes the receipts) to ambassador-support@cncf.io.
 	-	For Meetup food/beverage reimbursements, please include a link to that month’s Meetup page in your email.
-	-	If you are based in the US, we will mail you a check unless you provide your ACH info.
+	-	If you are based in the US, please provide your mailing address or ACH info in the email.
 	-	If you are not based in the US, please include your wire info in the email.
 -	We try to reimburse you in less than 2 weeks.
 
