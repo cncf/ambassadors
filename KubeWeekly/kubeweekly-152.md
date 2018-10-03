@@ -1,4 +1,5 @@
 ## KubeWeekly #152
+Wednesday - October, 10, 2018 
 
 ### Highlights
 _Editor's picks of the highlights from the past week._
