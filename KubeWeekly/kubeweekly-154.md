@@ -21,6 +21,8 @@ _Articles, announcements, and more that give you a high-level overview of challe
 
 [Journey to the CKA](https://suraj.pro/post/journey-to-cka/)
 
+[_The Enterprise Path to Service Mesh Architectures_](https://gingergeek.com/2018/08/now-available-the-enterprise-path-to-service-mesh-architectures/)
+Lee Calcote, Layer5
 
 ### Tweets 
 
