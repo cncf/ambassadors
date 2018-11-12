@@ -9,5 +9,6 @@ A list of cloud native books:
 * [Prometheus up and running | authors: Brian Brazil](http://shop.oreilly.com/product/0636920147343.do)
 * [Designing distributed systems | authors: Brendan Burns](http://shop.oreilly.com/product/0636920072768.do)
 * [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2 | authors Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan](https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X)
+* [Kubernetes in Action | author: Marko Lukša](https://www.manning.com/books/kubernetes-in-action)
 
 Feel free to contribute on this list! Just send over a pull request!
