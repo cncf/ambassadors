@@ -14,7 +14,7 @@ _Editor's picks of the highlights from the past week._
 _Tutorials, tools, and more that take you on a deep dive into the code._
 [ARTICLE TITLE](LINK)
 
-Tooling: 
+_Tooling:_
 [ARTICLE TITLE](LINK) - one sentence description
 
 **The Editorial** 
