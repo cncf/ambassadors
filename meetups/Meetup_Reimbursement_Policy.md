@@ -8,7 +8,7 @@ Reimbursement Instructions:
 	-	We require receipts for your expenses.
 -	If you don’t already have expense report software, we recommend creating a free, single-person account in Expensify. You can then either forward your receipts by email to receipts@expensify.com or install the app and take pictures of your receipts (or both).
 	-	Please title the expense report in this format: Full Name - Description - Date (e.g., Clark Kent - Cloud Native Metropolis Meetup - 11/08/18)
-	-	Please include your banking/wire details as a comment or an attached document in your expense report.  Please do not send banking/wire details in the body of an email.
+	-	Please include your physical mailing address and banking/wire details as a comment or an attached document in your expense report.  Please do not send banking/wire details in the body of an email.
 	-	Expensify converts from any currency to dollars.
 	-	Each expense should include a comment (e.g., stickers from CNCF online store, pizza for August Meetup).
 -	Please do *not* use the electronic submit feature from Expensify or similar. Instead, just download a PDF and email it. The email also gives you a receipt of your submission.
