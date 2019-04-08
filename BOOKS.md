@@ -22,4 +22,13 @@ A list of cloud native books:
 * [Kubernetes実践入門 プロダクションレディなコンテナ&アプリケーションの作り方 | 著者: 須田 一輝, 稲津 和磨, 五十嵐 綾 , 坂下 幸徳, 吉田 拓弘, 河 宜成, 久住 貴史, 村田 俊哉](https://gihyo.jp/book/2019/978-4-297-10438-2)
 * [みんなのDocker/Kubernetes | 著者: 石澤 基, 五十嵐 綾 , 大塚 元央, 須田 一輝 , 稲津 和磨, 九岡 佑介, 坂部 広大 , 青山 真也 , 池添 明宏, 上岡 真也](https://gihyo.jp/book/2019/978-4-297-10461-0)
 
+## 中文(Chinese)
+
+* [Cloud Native Go - 基于Go和React的web云原生应用构建指南 | 作者：Kevin Hoffman & Dan Nemeth，译者：宋净超，吴迎松，徐蓓，马超](https://item.m.jd.com/product/12123347.html)
+* [Python云原生 - 构建应对海量用户数据的高可扩展 Web 应用 | 作者：Manish Sethi | 译者：宋净超](http://item.jd.com/12365097.html)
+* [云原生 Java - Spring Boot、Spring Cloud 与 Cloud Foundry 弹性系统设计 | 作者：Josh Long & Kenny Bastani | 译者：张若飞，宋净超](https://item.jd.com/12398618.html)
+* [未来架构——从服务化到云原生 | 作者：张亮，吴晟，敖小剑，宋净超 著](https://item.jd.com/12498217.html)
+* [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册 | 作者：宋净超](https://jimmysong.io/kubernetes-handbook/)
+* [Istio Handbook——Istio 服务网格进阶实战 | ServiceMesher 社区著](http://www.servicemesher.com/istio-handbook/)
+
 Feel free to contribute on this list! Just send over a pull request!
