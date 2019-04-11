@@ -16,7 +16,7 @@ The Cloud Native Ambassador program exists to empower community members with too
 * Already engaged with the project in some way whether that’s as a contributor, blogger, speaker, etc.
 * Willing to either speak at community events OR write technical content such as blog posts.
 * Host a cloud native community meetup. See http://www.meetup.com/pro/cncf/ for areas already covered.
-  If you interested in starting a new meetup group you should have a look our [best practices](meetups/Meetup_Best_Practices.md).
+  If you are interested in starting a new meetup group you should have a look our [best practices](meetups/Meetup_Best_Practices.md).
 
 ### Ambassador Benefits
 
