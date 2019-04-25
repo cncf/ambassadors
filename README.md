@@ -22,6 +22,7 @@ The Cloud Native Ambassador program exists to empower community members with too
 
 With the goal of Cloud Native technologies promotion around the globe, we are offering the following benefits for our Ambassadors:
 * Up to $150/month reimbursement for expenses, related to meetups organizing (exceptions are applicable and reviewed on per request basis).
+* Annual mixed decal sticker pack: https://store.cncf.io/collections/ambassador-packs/products/mixed-decal-pack
 * Discounts to CNCF conferences.
 * Waived CNCF CKA/CKAD Exam Fees: https://www.cncf.io/certification/expert/
 * One-time gift certificate to purchase swag from [CNCF Store](https://store.cncf.io/) for the local meetup group.
