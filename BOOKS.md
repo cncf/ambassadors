@@ -21,6 +21,8 @@ A list of cloud native books:
 * [しくみがわかるKubernetes Azureで動かしながら学ぶコンセプトと実践知識 | 著者: 阿佐志保, 真壁徹](https://www.shoeisha.co.jp/book/detail/9784798157849)
 * [Kubernetes実践入門 プロダクションレディなコンテナ&アプリケーションの作り方 | 著者: 須田 一輝, 稲津 和磨, 五十嵐 綾 , 坂下 幸徳, 吉田 拓弘, 河 宜成, 久住 貴史, 村田 俊哉](https://gihyo.jp/book/2019/978-4-297-10438-2)
 * [みんなのDocker/Kubernetes | 著者: 石澤 基, 五十嵐 綾 , 大塚 元央, 須田 一輝 , 稲津 和磨, 九岡 佑介, 坂部 広大 , 青山 真也 , 池添 明宏, 上岡 真也](https://gihyo.jp/book/2019/978-4-297-10461-0)
+* [分散システムデザインパターン | 著者: Brendan Burns | 翻訳者: 松浦 隼人](https://www.oreilly.co.jp/books/9784873118758/)
+* [入門 Prometheus | 著者: Brian Brazil | 監訳者: 須田 一輝 | 翻訳者: 長尾 高弘](https://www.oreilly.co.jp/books/9784873118758/)
 
 ## 中文(Chinese)
 
