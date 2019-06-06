@@ -4,7 +4,7 @@ about: 'Links for KubeWeekly #1XX'
 
 ---
 
-Please respond to this issue with links for the next edition of KubeWeekly. Links are due by 11am PT every Wednesday. @kbarnard10 will combine the links into the final email and send out. 
+Please respond to this issue with links for the next edition of KubeWeekly. Links are due by 11am PT every Wednesday. @kimmcmahon will combine the links into the final email and send out. 
 
 **Featured Content**
 _Editor's picks of the highlights from the past week._
