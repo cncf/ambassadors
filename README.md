@@ -51,4 +51,10 @@ No, once you formally apply you are part of the pool of applicants that get revi
 
 #### Will you email me with a status update of my application each month?
 
-No. If your application is deferred, we will send out a note the first time your application is reviewed. After that, we will only follow up if your application is accepted. 
+No. If your application is deferred, we will send out a note the first time your application is reviewed. After that, we will only follow up if your application is accepted.
+
+#### I'd like to get in touch with the CNCF ambassador in a specific city/region. Where can I find who is a local ambassador?
+
+Here is [a map of the CNCF Ambassadors](https://drive.google.com/open?id=1fb0UPi8ijeexueBxcpGuvVlZ_8hJHXVQ&usp=sharing).
+
+NOTE: If you are an existing CNCF Ambassador and would like to ajdust your location on the map, please contact the CNCF Staff.
