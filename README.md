@@ -58,3 +58,7 @@ No. If your application is deferred, we will send out a note the first time your
 Here is [a map of the CNCF Ambassadors](https://drive.google.com/open?id=1fb0UPi8ijeexueBxcpGuvVlZ_8hJHXVQ&usp=sharing).
 
 NOTE: If you are an existing CNCF Ambassador and would like to ajdust your location on the map, please contact the CNCF Staff.
+
+#### What if I want to step down? 
+
+We have an [Emeritus](emeritus.md) program to address Ambassadors who'd like to step down from active engagement but still be invited to participate in calls. 
