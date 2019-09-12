@@ -17,9 +17,12 @@ The Cloud Native Ambassador program exists to empower community members with too
 * Willing to either speak at community events OR write technical content such as blog posts.
 * Host a cloud native community meetup. See http://www.meetup.com/pro/cncf/ for areas already covered.
   If you are interested in starting a new meetup group you should have a look our [best practices](meetups/Meetup_Best_Practices.md).
+  
+### Expected Time Commitments
+* Give a talk, host a meetup or perform an activity that spreads the awareness of cloud native twice a year
+* Report back on your activities for our end-of-year survey and report
 
 ### Ambassador Benefits
-
 With the goal of Cloud Native technologies promotion around the globe, we are offering the following benefits for our Ambassadors:
 * Up to $150/month reimbursement for expenses, related to meetups organizing (exceptions are applicable and reviewed on per request basis).
 * Annual [mixed decal sticker pack](https://store.cncf.io/collections/ambassador-packs/products/mixed-decal-pack) or sticker pack of your choice
@@ -58,3 +61,7 @@ No. If your application is deferred, we will send out a note the first time your
 Here is [a map of the CNCF Ambassadors](https://drive.google.com/open?id=1fb0UPi8ijeexueBxcpGuvVlZ_8hJHXVQ&usp=sharing).
 
 NOTE: If you are an existing CNCF Ambassador and would like to ajdust your location on the map, please contact the CNCF Staff.
+
+#### What if I want to step down or don't have the time to commit anymore? 
+
+We have an [Emeritus](EMERITUS.md) program to address Ambassadors who'd like to step down from active engagement but still be invited to participate in calls and the community. If you decide to become more active again, emeritus ambassadors are always welcome to be reinstated as full CNCF Ambassadors. Please open up an issue in the repo to start the process.
