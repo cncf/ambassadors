@@ -59,6 +59,6 @@ Here is [a map of the CNCF Ambassadors](https://drive.google.com/open?id=1fb0UPi
 
 NOTE: If you are an existing CNCF Ambassador and would like to ajdust your location on the map, please contact the CNCF Staff.
 
-#### What if I want to step down? 
+#### What if I want to step down or don't have the time to commit anymore? 
 
-We have an [Emeritus](emeritus.md) program to address Ambassadors who'd like to step down from active engagement but still be invited to participate in calls. 
+We have an [Emeritus](EMERITUS.md) program to address Ambassadors who'd like to step down from active engagement but still be invited to participate in calls and the community.
