@@ -9,3 +9,4 @@ You'll still be listed as an ambassador emeritus on the CNCF page and are entitl
 ## Emeritus Ambassadors
 
 * Jorge Castro, VMware
+* Paris Pittman, Google
