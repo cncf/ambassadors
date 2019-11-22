@@ -8,4 +8,4 @@ You'll still be listed as an ambassador emeritus on the CNCF page and are entitl
 
 ## Emeritus Ambassadors
 
-* TBD
+* Jorge Castro, VMware
