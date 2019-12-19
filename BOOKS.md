@@ -11,6 +11,7 @@ A list of cloud native books:
 * [The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2 | authors Thomas A. Limoncelli, Strata R. Chalup, Christina J. Hogan](https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X)
 * [Kubernetes in Action | author: Marko Lukša](https://www.manning.com/books/kubernetes-in-action)
 * [The Enterprise Path to Service Mesh Architectures | author: Lee Calcote](https://layer5.io/books/the-enterprise-path-to-service-mesh-architectures)
+* [Kubernetes Best Practices | authors: Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson](http://shop.oreilly.com/product/0636920273219.do)
 
 ## 日本語 (Japanese)
 
