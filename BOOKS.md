@@ -12,6 +12,8 @@ A list of cloud native books:
 * [Kubernetes in Action | author: Marko Lukša](https://www.manning.com/books/kubernetes-in-action)
 * [The Enterprise Path to Service Mesh Architectures | author: Lee Calcote](https://layer5.io/books/the-enterprise-path-to-service-mesh-architectures)
 * [Kubernetes Best Practices | authors: Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson](http://shop.oreilly.com/product/0636920273219.do)
+* [Programming Kubernetes | authors:  Michael Hausenblas and Stefan Schimanski](https://programming-kubernetes.info/)
+* [Kubernetes Cookbook | authors: Sébastien Goasguen and Michael Hausenblas](http://shop.oreilly.com/product/0636920064947.do)
 
 ## 日本語 (Japanese)
 
