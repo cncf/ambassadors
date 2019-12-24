@@ -14,6 +14,7 @@ A list of cloud native books:
 * [Kubernetes Best Practices | authors: Brendan Burns, Eddie Villalba, Dave Strebel, Lachlan Evenson](http://shop.oreilly.com/product/0636920273219.do)
 * [Programming Kubernetes | authors:  Michael Hausenblas and Stefan Schimanski](https://programming-kubernetes.info/)
 * [Kubernetes Cookbook | authors: Sébastien Goasguen and Michael Hausenblas](http://shop.oreilly.com/product/0636920064947.do)
+* [Istio: Up and Running | authors: Lee Calcote and Zack Butcher](https://layer5.io/books/istio-up-and-running)
 
 ## 日本語 (Japanese)
 
