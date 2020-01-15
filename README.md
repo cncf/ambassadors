@@ -28,6 +28,7 @@ With the goal of Cloud Native technologies promotion around the globe, we are of
 * Annual [mixed decal sticker pack](https://store.cncf.io/collections/ambassador-packs/products/mixed-decal-pack) or sticker pack of your choice
 * Discounts to CNCF conferences.
 * Waived CNCF CKA/CKAD Exam Fees: https://www.cncf.io/certification/expert/
+* Waived cost for any LF Training related course and certification: https://training.linuxfoundation.org/
 * One-time gift certificate to purchase swag from [CNCF Store](https://store.cncf.io/) for the local meetup group.
 * Support with finding speakers for the meetups and local events.
 * Speaking opportunities at Cloud Native industry events (with the optional travel expenses reimbursement).
