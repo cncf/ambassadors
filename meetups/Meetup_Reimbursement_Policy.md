@@ -23,7 +23,7 @@
 
 In some cases, you may need to spend in excess of $150 in one month on your meetup for CNCF-supported purposes, such as purchasing swag for a year, staffing a booth at a public conference, or hosting a special event for the broader CNCF community. For such expenses, please:
 
-1.	Email ambassador-support@cncf.io with a request for pre-approval of the expense well in advance of spending it.
+1.	Submit a ticket via the [CNCF ServiceDesk](https://github.com/cncf/servicedesk) (or email ambassador-support@cncf.io as a fallback option) with a request for pre-approval of the expense well in advance of spending it.
 2.	Include information about the expected expense and an estimate of cost, and a justification as to why this supports CNCF’s mission.
 3.	Wait for approval before spending the funds.
 4.	If the funds are approved, submit an expense report using the above expense process.
