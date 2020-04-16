@@ -26,6 +26,7 @@ The Cloud Native Ambassador program exists to empower community members with too
 With the goal of Cloud Native technologies promotion around the globe, we are offering the following benefits for our Ambassadors:
 * Up to $150/month reimbursement for expenses, related to meetups organizing (exceptions are applicable and reviewed on per request basis).
 * Up to $100/month in AWS cloud credits for CNCF related demos and experiments.
+  * _NOTE: This benefit is a subject for approval by AWS, see the program guidelines at [AWS Blog](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)_
 * Annual [mixed decal sticker pack](https://store.cncf.io/collections/ambassador-packs/products/mixed-decal-pack) or sticker pack of your choice
 * Discounts to CNCF conferences.
 * Waived CNCF CKA/CKAD Exam Fees: https://www.cncf.io/certification/expert/
