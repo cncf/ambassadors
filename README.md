@@ -15,8 +15,8 @@ The Cloud Native Ambassador program exists to empower community members with too
 * Affiliated with a CNCF member OR is a contributor to a CNCF project.
 * Already engaged with the project in some way whether that’s as a contributor, blogger, speaker, etc.
 * Willing to either speak at community events OR write technical content such as blog posts.
-* Host a cloud native community meetup. See http://www.meetup.com/pro/cncf/ for areas already covered.
-  If you are interested in starting a new meetup group you should have a look our [best practices](meetups/Meetup_Best_Practices.md).
+* Host a cloud native community group/meetup. See http://community.cncf.io for areas already covered.
+  If you are interested in starting a new meetup group you should have a look our [best practices](communitygroups/Meetup_Best_Practices.md).
   
 ### Expected Time Commitments
 * Give a talk, host a meetup or perform an activity that spreads the awareness of cloud native twice a year
