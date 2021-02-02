@@ -4,23 +4,23 @@ CNCF Ambassadors have the opportunity to become hosts of This Week in Cloud Nati
 
 This Week in Cloud Native will stream across [CNCF Twitch](https://www.twitch.tv/cloudnativefdn), Youtube Live, Periscope, and LinkedIn. In addition to the chat functionality on each platform, there is a [channel in CNCF slack](https://cloud-native.slack.com/archives/C01KEKUJ55Y) where audience members can ask questions before, during, and after the show to engage more with the presenters.
 
-## Assets
+### Assets
 CNCF streaming channels on Twitch, Youtube Live, Periscope, and LinkedIn
 #this-week-in-cloud-native-twitch channel in CNCF slack
 Backend supported by Streamyard
 
-## Time Commitment
+### Time Commitment
 The time commitment for each host is roughly 1.5 hours every other week. On the week they are hosting, they should take some time to familiarize themselves with the project and people who they will be streaming with. In addition, the stream will be roughly one hour at 20.00 UTC on Wednesdays.
 
-## Benefits
+### Benefits
 Grow your personal brand
 Learn about more of the cloud native landscape
 $250 budget to upgrade your streaming setup
 
-## Current Hosts
+### Current Hosts
 Mario Loria
 Paulo Simoes
 
-## Emeritus Hosts
+### Emeritus Hosts
 Previous hosts of This Week in Cloud Native are welcome to come back and host after their quarter is over on an as needed/wanted/demanded basis.
 
