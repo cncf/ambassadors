@@ -37,6 +37,7 @@ With the goal of Cloud Native technologies promotion around the globe, we are of
 * Blogging opportunities (including [CNCF blog](https://www.cncf.io/blog/), [Kubernetes blog](http://blog.kubernetes.io/), and other industry-leading editions).
 * Social media promotion support.
 * [Become a host](https://github.com/cncf/ambassadors/blob/master/Hosting-This-Week-in-Cloud-Native.md) of [This Week in Cloud Native](http://cloudnative.tv/)
+* Help with graphic design for events (depending on design teams availability) 
 
 ### Are you interested in becoming an official Cloud Native Ambassador?
 
