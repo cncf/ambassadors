@@ -11,7 +11,7 @@ Cloud Native Live will stream across [CNCF Twitch](https://www.twitch.tv/cloudna
 * [Script for each show](https://docs.google.com/document/d/1LzbNJBam80gckn4bkwk4497pFb9VROJBqwp4QfjS_gg/edit)
 
 ### Time Commitment
-The time commitment for each host is roughly 1.5 hours every other week. On the week they are hosting, they should take some time to familiarize themselves with the project and people who they will be streaming with. In addition, the stream will be roughly one hour at 20.00 UTC on Wednesdays.
+The time commitment for each host is roughly 1.5 hours every other week. On the week they are hosting, they should take some time to familiarize themselves with the project and people who they will be streaming with. In addition, the stream will be roughly one hour at 18.00 UTC on Wednesdays.
 
 ### Benefits
 * Grow your personal brand
