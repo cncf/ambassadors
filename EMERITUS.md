@@ -14,3 +14,4 @@ You'll still be listed as an ambassador emeritus on the CNCF page and are entitl
 * Justin Garrison, Disney
 * Paris Pittman, Google
 * Paul Burt, HashiCorp
+* Jeffrey Sica, CNCF
