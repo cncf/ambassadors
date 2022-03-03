@@ -15,3 +15,4 @@ You'll still be listed as an ambassador emeritus on the CNCF page and are entitl
 * Paris Pittman, Google
 * Paul Burt, HashiCorp
 * Jeffrey Sica, CNCF
+* Hunter Nield
