@@ -16,3 +16,4 @@ You'll still be listed as an ambassador emeritus on the CNCF page and are entitl
 * Paul Burt, HashiCorp
 * Jeffrey Sica, CNCF
 * Hunter Nield
+* Taylor Dolezal, CNCF
