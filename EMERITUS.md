@@ -17,3 +17,4 @@ You'll still be listed as an ambassador emeritus on the CNCF page and are entitl
 * Jeffrey Sica, CNCF
 * Hunter Nield
 * Taylor Dolezal, CNCF
+* [David Flanagan](@rawkode)
