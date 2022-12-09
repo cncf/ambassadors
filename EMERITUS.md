@@ -18,3 +18,4 @@ You'll still be listed as an ambassador emeritus on the CNCF page and are entitl
 * Hunter Nield
 * Taylor Dolezal, CNCF
 * [David Flanagan](@rawkode)
+* Ricardo Katz, VMware
