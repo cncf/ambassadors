@@ -1,6 +1,6 @@
 If you need to update your [Ambassador](https://www.cncf.io/people/ambassadors/) profile, please follow the below instructions by submitting a PR for approval. After a PR is merged, the CNCF site will reflect the update within 10 min. 
 
-For more information go to [CNCF People](https://github.com/cncf/people/blob/main/README.md):
+For more information go to [CNCF People](https://github.com/cncf/people/blob/main/README.md).
 
 ## Listing Format
 
