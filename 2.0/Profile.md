@@ -1,4 +1,4 @@
-If you need to update your [Ambassadors](https://www.cncf.io/people/ambassadors/) profile, please follow the below instructions or go to [CNCF People](https://github.com/cncf/people/blob/main/README.md):
+If you need to update your [Ambassador](https://www.cncf.io/people/ambassadors/) profile, please follow the below instructions or go to [CNCF People](https://github.com/cncf/people/blob/main/README.md):
 
 ## Listing Format
 
