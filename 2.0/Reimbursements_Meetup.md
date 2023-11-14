@@ -1,7 +1,7 @@
 **CNCF Ambassadors can be reimbursed for up to $150 per month for Meetup-related expenses as long as the Ambassador is using and hosting events on [Community.cncf.io] (https://community.cncf.io/), including food, beverages, and swag from the online store. Exceptions for higher amounts or special items are granted on a case-by-case basis (see below).**
 
 #### Reimbursement Instructions:
-1.	Create an account in the recommended expense report software expensify.com (if you already have a expense report software you can use that software if you prefer)
+1.	Create an account in the recommended expense report software [expensify.com](expensify.com) (if you already have a expense report software you can use that software if you prefer)
 2.	Submit expense report and receipts to [[reimbursement form](https://form.asana.com/?k=n4WC5WBfigsFjhrTpxutUw&d=9283783873717)]
 	-	For Meetup food/beverage reimbursements, please include a link to that month’s Meetup page in your email.
  	-	Please expense receipts after you have spent the money.
