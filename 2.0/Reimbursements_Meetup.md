@@ -1,23 +1,20 @@
 **CNCF Ambassadors can be reimbursed for up to $150 per month for Meetup-related expenses as long as the Ambassador is using and hosting events on [Community.cncf.io] (https://community.cncf.io/), including food, beverages, and swag from the online store. Exceptions for higher amounts or special items are granted on a case-by-case basis (see below).**
 
 #### Reimbursement Instructions:
-
--	Please submit one invoice for any related expenses within a calendar month.
+1.	Create an account in the recommended expense report software expensify.com (if you already have a expense report software you can use that software if you prefer)
+2.	Submit expense report and receipts to [[reimbursement form](https://form.asana.com/?k=n4WC5WBfigsFjhrTpxutUw&d=9283783873717)]
+	-	For Meetup food/beverage reimbursements, please include a link to that month’s Meetup page in your email.
+ 	-	Please expense receipts after you have spent the money.
+ 	-	Please submit one invoice for any related expenses within a calendar month.
 	-	No rounding.
 	-	The totals should be in USD.
 	-	We require receipts for your expenses.
--	If you don’t already have expense report software, we recommend creating a free, single-person account in Expensify. You can then either forward your receipts by email to receipts@expensify.com or install the app and take pictures of your receipts (or both).
 	-	Please title the expense report in this format: Full Name - Description - Date (e.g., Clark Kent - Cloud Native Metropolis Meetup - 11/08/18)
 	-	Please include your physical mailing address and banking/wire details as a comment or an attached document in your expense report. Please do not send banking/wire details in the body of an email.
 	-	Expensify converts from any currency to dollars.
 	-	Each expense should include a comment (e.g., stickers from CNCF online store, pizza for August Meetup).
 -	Please do *not* use the electronic submit feature from Expensify or similar. Instead, just download a PDF and email it. The email also gives you a receipt of your submission.
--	Please expense receipts after you have spent the money.
--	Email the expense report (which includes the receipts) to ambassador-support@cncf.io.
-	-	For Meetup food/beverage reimbursements, please include a link to that month’s Meetup page in your email.
-	-	If you are based in the US, please provide your mailing address or ACH info in the email.
-	-	If you are not based in the US, please include your wire info in the email.
--	We try to reimburse you in less than 2 weeks.
+3.	If this your first time submitting a expense report please include the [[wire transfer form](https://drive.google.com/file/d/10ynF4lYoEdGEj7y2_tvsVQeGsSZjN_pZ/view?usp=sharing0] 
 
 #### **What Can You Expense**
 -	Food & Beverage
@@ -36,4 +33,6 @@ In some cases, you may need to spend in excess of $150 in one month on your meet
 3.	Wait for approval before spending the funds.
 4.	If the funds are approved, submit an expense report using the above expense process.
 
-If you have any questions, please reach out to ambassador-support@cncf.io.
+
+
+We try to reimburse you in less than 2 weeks. If you have any questions, please reach out to ambassador-support@cncf.io.
