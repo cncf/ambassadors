@@ -14,7 +14,7 @@
 	-	Expensify converts from any currency to dollars.
 	-	Each expense should include a comment (e.g., stickers from CNCF online store, pizza for August Meetup).
 -	Please do *not* use the electronic submit feature from Expensify or similar. Instead, just download a PDF and email it. The email also gives you a receipt of your submission.
-3.	If this your first time submitting a expense report please include the [[wire transfer form](https://drive.google.com/file/d/10ynF4lYoEdGEj7y2_tvsVQeGsSZjN_pZ/view?usp=sharing0] 
+3.	If this your first time submitting a expense report please include the [[wire transfer form](https://drive.google.com/file/d/10ynF4lYoEdGEj7y2_tvsVQeGsSZjN_pZ/view?usp=sharing)] 
 
 #### **What Can You Expense**
 -	Food & Beverage
