@@ -2,7 +2,7 @@
 
 #### Reimbursement Instructions:
 1.	Create an account in the recommended expense report software [expensify.com](expensify.com) (if you already have a expense report software you can use that software if you prefer)
-2.	Submit expense report and receipts to [[reimbursement form](https://form.asana.com/?k=n4WC5WBfigsFjhrTpxutUw&d=9283783873717)]
+2.	Submit expense report and receipts to [reimbursement form](https://form.asana.com/?k=n4WC5WBfigsFjhrTpxutUw&d=9283783873717)
 	-	For Meetup food/beverage reimbursements, please include a link to that month’s Meetup page in your email.
  	-	Please expense receipts after you have spent the money.
  	-	Please submit one invoice for any related expenses within a calendar month.
@@ -14,7 +14,7 @@
 	-	Expensify converts from any currency to dollars.
 	-	Each expense should include a comment (e.g., stickers from CNCF online store, pizza for August Meetup).
 -	Please do *not* use the electronic submit feature from Expensify or similar. Instead, just download a PDF and email it. The email also gives you a receipt of your submission.
-3.	If this is your first time submitting a expense report please include the [[wire transfer form](https://drive.google.com/file/d/10ynF4lYoEdGEj7y2_tvsVQeGsSZjN_pZ/view?usp=sharing)] 
+3.	If this is your first time submitting a expense report please include the [wire transfer form](https://drive.google.com/file/d/10ynF4lYoEdGEj7y2_tvsVQeGsSZjN_pZ/view?usp=sharing)
 
 #### **What Can You Expense**
 -	Food & Beverage
