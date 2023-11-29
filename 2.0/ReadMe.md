@@ -1,3 +1,5 @@
+<img alt="CNCF Ambassador" src="https://raw.githubusercontent.com/cncf/artwork/master/other/ambassador/icon/color/cncf-ambassador-icon-color.png" width="600px">
+
 # CNCF Ambassador Program 
 [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/)
 
