@@ -7,7 +7,7 @@
  	-	Please expense receipts after you have spent the money.
  	-	Please submit one invoice for any related expenses within a calendar month.
 	-	No rounding.
-	-	The totals should be in USD.
+	-	The totals of report should be in USD by default it's in local currency ["Check here how to select the currency in Expensify](https://help.expensify.com/articles/expensify-classic/workspaces/Currency#:~:text=Report%20Output%20Currency-,On%20an%20individual%20workspace,-Sign%20into%20your)
 	-	We require receipts for your expenses.
 	-	Please title the expense report in this format: Full Name - Description - Date (e.g., Clark Kent - Cloud Native Metropolis Meetup - 11/08/18)
 	-	Please include your physical mailing address and banking/wire details as a comment or an attached document in your expense report. Please do not send banking/wire details in the body of an email.
