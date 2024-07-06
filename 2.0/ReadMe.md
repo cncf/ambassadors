@@ -15,7 +15,7 @@ Ambassadors are an extension of CNCF, furthering the mission of “making cloud 
 - Provide valuable input and feedback to the CNCF about community programs and initiatives
 - Promote cloud native technologies and CNCF projects globally
 
-# Expextations:
+# Expectations:
 - Be a leader in the CNCF Community
 - Be active in the CNCF Community
   - [Monthly Check-In](https://form.asana.com/?k=5ppHO7iTxPS014O13BcdhQ&d=9283783873717)

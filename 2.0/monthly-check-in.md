@@ -11,6 +11,6 @@ If you have any questions, or concerns or need any assistance, please don't hesi
 Your dedication and contributions are highly valued, and I'm here to support you in any way I can.
 
 
-[sumbit your monthly check-in](https://form.asana.com/?k=5ppHO7iTxPS014O13BcdhQ&d=9283783873717) by the 5th of the following month
+[submit your monthly check-in](https://form.asana.com/?k=5ppHO7iTxPS014O13BcdhQ&d=9283783873717) by the 5th of the following month
 
 [Review if you have submitted or what your peers have accomplished](https://docs.google.com/spreadsheets/d/1z7gf0YwrO-wN-eByHETeEhJAA1ZVVxB4Uaff8RQMh94/edit#gid=1268024239)
