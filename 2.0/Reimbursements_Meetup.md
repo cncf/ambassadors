@@ -3,7 +3,7 @@
 #### Reimbursement Instructions:
 1.	Create an account in the recommended expense report software [expensify.com](https://expensify.com) (if you already have a expense report software you can use that software if you prefer)
 2.	Create a report through expensify.com and attach receipts to the full report. Export as a PDF
-   	-	For Meetup food/beverage reimbursements, please include a link to that month’s Meetup page in your email.
+   	-	For Meetup food/beverage reimbursements, please include a link to that month’s Meetup page in your email to `ambassador-support@cncf.io`
  	-	Please expense receipts after you have spent the money.
  	-	Please submit one invoice for any related expenses within a calendar month.
 	-	No rounding.
