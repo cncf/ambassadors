@@ -14,7 +14,7 @@
 	-	Expensify converts from any currency to dollars.
 	-	Please do *not* use the electronic submit feature from Expensify or similar. Instead, just download a PDF and email it. The email also gives you a receipt of your submission.
 	-	Each expense should include a comment (e.g., stickers from CNCF online store, pizza for August Meetup).
-3.	Submit the pdf of the expense report and receipts to [reimbursement form](https://form.asana.com/?k=n4WC5WBfigsFjhrTpxutUw&d=9283783873717)
+3.	Submit the pdf of the expense report and receipts to [reimbursement form](https://form.asana.com/?k=Ib_9cF4DNzhRy9y9OA6WKg&d=9283783873717)
 4.	If this is your first time submitting a expense report please include the [wire transfer form](https://drive.google.com/file/d/10ynF4lYoEdGEj7y2_tvsVQeGsSZjN_pZ/view?usp=sharing)
 
 #### **What Can You Expense**
@@ -36,4 +36,4 @@ In some cases, you may need to spend in excess of $150 in one month or $450 for 
 
 
 
-We try to reimburse you in less than 2 weeks. If you have any questions, please reach out to ambassador-support@cncf.io.
+We try to reimburse you in less than 2 weeks. If you have any questions, please reach out to [ambassador-support@cncf.io](ambassador-support@cncf.io).
