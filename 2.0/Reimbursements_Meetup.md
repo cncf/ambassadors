@@ -10,9 +10,9 @@
 	-	The totals of report should be in USD by default it's in local currency [check here how to modify currency for reports in Expensify](https://help.expensify.com/articles/expensify-classic/workspaces/Currency#:~:text=Report%20Output%20Currency-,On%20an%20individual%20workspace,-Sign%20into%20your)
 	-	We require receipts for your expenses.
 	-	Please title the expense report in this format: Full Name - Description - Date (e.g., Clark Kent - Cloud Native Metropolis Meetup - 11/08/18)
-	-	Please include your physical mailing address and banking/wire details as a comment or an attached document in your expense report. Please do not send banking/wire details in the body of an email.
+	-	Please include your physical mailing address and banking/wire details as a comment or an attached document in your expense report. Please do not send banking/wire details in the body of any email.
 	-	Expensify converts from any currency to dollars.
-	-	Please do *not* use the electronic submit feature from Expensify or similar. Instead, just download a PDF and email it. The email also gives you a receipt of your submission.
+	-	Please do *not* use the electronic submit feature from Expensify or similar. Instead, just download a PDF and submit it through the form. The form also gives you a receipt of your submission.
 	-	Each expense should include a comment (e.g., stickers from CNCF online store, pizza for August Meetup).
 3.	Submit the pdf of the expense report and receipts to [reimbursement form](https://form.asana.com/?k=WR7_2yuz0tfjQ2gWkbtVyw&d=9283783873717)
 4.	If this is your first time submitting a expense report please include the [wire transfer form](https://drive.google.com/file/d/10ynF4lYoEdGEj7y2_tvsVQeGsSZjN_pZ/view?usp=sharing)
