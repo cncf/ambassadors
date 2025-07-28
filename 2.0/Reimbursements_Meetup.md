@@ -14,7 +14,7 @@
 	-	Expensify converts from any currency to dollars.
 	-	Please do *not* use the electronic submit feature from Expensify or similar. Instead, just download a PDF and submit it through the form. The form also gives you a receipt of your submission.
 	-	Each expense should include a comment (e.g., stickers from CNCF online store, pizza for August Meetup).
-3.	Submit the pdf of the expense report and receipts to [reimbursement form](https://form.asana.com/?k=WR7_2yuz0tfjQ2gWkbtVyw&d=9283783873717)
+3.	Submit the pdf of the expense report and receipts to marketing@cncf.io.
 4.	If this is your first time submitting a expense report please include the [wire transfer form](https://drive.google.com/file/d/10ynF4lYoEdGEj7y2_tvsVQeGsSZjN_pZ/view?usp=sharing)
 
 #### **What Can You Expense**
