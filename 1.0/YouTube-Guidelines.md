@@ -1,6 +1,6 @@
 # Ambassador / Meetup YouTube Channel Guidelines #
 
-CNCF has created a branded sister YouTube channel for [CNCF Ambassador and Meetu]((https://www.youtube.com/channel/UCsCuH5QK0y4FT-DNayK1rIQ)) use titled CNCF Ambassador and Meetups. Ambassadors and Meetups can use this channel to upload video recordings of their community meetings.
+CNCF has created a branded sister YouTube channel for [CNCF Ambassador and Meetu](https://www.youtube.com/channel/UCsCuH5QK0y4FT-DNayK1rIQ) use titled CNCF Ambassador and Meetups. Ambassadors and Meetups can use this channel to upload video recordings of their community meetings.
 
 ## Code of Conduct ##
 
@@ -11,7 +11,7 @@ All CNCF communications adhere to the [CNCF Code of Conduct](https://github.com/
 CNCF Staff are the channel owners. They can designate other community members as owners, managers, or communication manager. Email info@cncf.io to request a user role to the YouTube channel.
 
 ## Playlists ##
-The CNCF Ambassador and Meetups channe has separate playlists for Ambassadors as a whole and each Meetup separately.
+The CNCF Ambassador and Meetups channel has separate playlists for Ambassadors as a whole and each Meetup separately.
 
 To better serve the community, [collaboration](https://support.google.com/youtube/answer/6109639) has been enabled to share the management of the playlists. Anyone with the appropriate link to the particular playlist can add videos to that particular playlist (links & playlists are one-to-one).
 
