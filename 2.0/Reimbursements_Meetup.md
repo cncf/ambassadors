@@ -22,7 +22,7 @@
 -	Venue
 -	Swag
 -	Equipment specific for meetup
--	Transportation (taxi, parking, etc.)
+-	Transportation (taxi, parking, etc.) to CNCF chapter meetups if you are an organizer or speaker
 -	You can combine monthly reimbursements, such as if you host on a quarterly basis and haven't submitted an expense for January or February and the event is in March. You can submit up to $450 USD in this case. We will not allow a meetup to exceed 3 months of combined reimbursements.
 
 #### **Exceptions**
