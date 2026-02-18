@@ -36,4 +36,6 @@ In some cases, you may need to spend in excess of $150 in one month or $450 for 
 
 
 
-We try to reimburse you in less than 2 weeks. If you have any questions, please reach out to [ambassador-support@cncf.io](ambassador-support@cncf.io).
+IMPORTANT: Reimbursements should be submitted within the quarter you spent the funds in. Some acceptions will be made for meetups at the end of a quarter.
+
+NOTE: We try to reimburse you in less than 2 weeks. If you have any questions, please reach out to [ambassador-support@cncf.io](ambassador-support@cncf.io).
