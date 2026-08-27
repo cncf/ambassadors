@@ -22,7 +22,7 @@
 -	Venue
 -	Swag
 -	Equipment specific for meetup
--	Transportation (taxi, parking, etc.) to CNCF chapter meetups if you are an organizer or speaker
+-	Transportation (taxi, parking, etc.) to CNCF chapter meetups if you are an organizer or speaker (up to 2 nights for speakers if traveling by plane, and 1 night if traveling by rail or car).
 -	You can combine monthly reimbursements, such as if you host on a quarterly basis and haven't submitted an expense for January or February and the event is in March. You can submit up to $450 USD in this case. We will not allow a meetup to exceed 3 months of combined reimbursements.
 -	As of 2026, CNCF Ambassadors may use their budget for travel expenses when they keynote at a KCD within their region. Keep in mind, this is an added spending option for the already budgeted $450 per quarter.
 
