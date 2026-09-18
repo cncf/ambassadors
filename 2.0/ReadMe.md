@@ -18,7 +18,7 @@ Ambassadors are an extension of CNCF, furthering the mission of “making cloud 
 # Expectations:
 - Be a leader in the CNCF Community
 - Be active in the CNCF Community
-  - [Monthly Check-In](https://form.asana.com/?k=5ppHO7iTxPS014O13BcdhQ&d=9283783873717)
+  - [Quarterly Check-In](quarterly-check-in.md)
   - 90 days of inactivity (call with program lead) 
   - 180 days of inactivity (dismissal from program)
   - If you know you are going to be inactive or need to put your ambassadorship on pause, please let us know
@@ -29,8 +29,7 @@ Ambassadors are an extension of CNCF, furthering the mission of “making cloud 
 - Up to $150/month [reimbursement](https://github.com/cncf/ambassadors/blob/main/2.0/Reimbursements_Meetup.md) for expenses, related to meetups organizing (exceptions are applicable and reviewed on per request basis).
 - Annual mixed decal sticker pack 
 - Discounts to CNCF conferences
-- Waived cost for CNCF CKA/CKAD Exam Fees or LF Training related course
-  - (https://form.asana.com/?k=MZvmiaLn7drvruAwUMatdg&d=9283783873717)
+- LF Training courses and certifications (including CKA/CKAD) are free to ambassadors. Unique codes are sent to you directly.
 - One-time gift certificate to purchase swag from CNCF Store 
 - Support with finding speakers for the meetups and local events
 - Speaking opportunities at Cloud Native industry events
