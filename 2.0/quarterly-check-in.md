@@ -13,4 +13,4 @@ Your dedication and contributions are highly valued, and I'm here to support you
 
 [Submit your quarterly check-in](https://form.asana.com/?k=G2JjgM7W0IFhbc9igbG2aA&d=9283783873717) at the end of each quarter. Dates are on the [Ambassadors calendar](https://www.cncf.io/people/ambassadors/calendar/).
 
-[Review if you have submitted or what your peers have accomplished](https://docs.google.com/spreadsheets/d/1z7gf0YwrO-wN-eByHETeEhJAA1ZVVxB4Uaff8RQMh94/edit#gid=1268024239)
+[Review if you have submitted or what your peers have accomplished](https://docs.google.com/spreadsheets/d/1RbDc3Cqu5oCyXhNvCEYa234bqx8TtDGxdED1gUW8_0o/edit?usp=sharing)
