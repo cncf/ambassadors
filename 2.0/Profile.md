@@ -30,7 +30,7 @@ The [people.json file](https://github.com/cncf/people/blob/main/people.json) lis
     }
 ```
 
-Project names must exactly match [the landscape listing](https://landscape.cncf.io/card-mode?project=hosted).  Category names must exactly match the list above.
+Project names must exactly match [the landscape listing](https://landscape.cncf.io/?view-mode=card&project=cncf).  Category names must exactly match the list above.
 
 And here is an example entry:
 
